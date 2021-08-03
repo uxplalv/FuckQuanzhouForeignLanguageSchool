@@ -16,7 +16,8 @@
 
 ## 如何举报（How to fuck them? ）
  ![](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck%20them/buyaneryuyimuliaoran.png)
- [图片](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck%20them/buyaneryuyimuliaoran.png)
+ [上图](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck%20them/buyaneryuyimuliaoran.png)
+ 
  各位切莫记得保护好自己，尤其是在校或刚离校的学生，别被抓到小辫子~
 
 ## 后记
