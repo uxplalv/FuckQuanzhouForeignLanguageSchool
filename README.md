@@ -14,8 +14,8 @@
  + 对于手机用户
    - 由于手机端的GitHub默认隐藏了项目文件目录，下载时登录项目主页，在目录窗口点击 ”View code“ 即可查看目录，接下来选择你要下载的文件所在的文件夹点进去，然后点击文件夹中的该文件，再点击文件预览窗口的 ”View raw“ 即可下载
 
-## 如何举报
- ![](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck/buyaneryuyimuliaoran.png)
+## 如何举报（How to fuck them? ）
+ ![](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck%20them/buyaneryuyimuliaoran.png)
  各位切莫记得保护好自己，尤其是在校或刚离校的学生，别被抓到小辫子~
 
 ## 后记
