@@ -3,7 +3,7 @@
 
  内容来源于互联网，本项目建立的目的便是保留备用存档，防止某校的公关消除他们所作”罪行“的痕迹
 
-## 如何下载
+## 如何下载（Download）
  考虑到有部分人不擅长使用GitHub，特编纂本教程
  
  + 首先确保你的网络环境可正常登入GitHub
@@ -19,6 +19,9 @@
  [上图](https://raw.githubusercontent.com/uxplalv/FuckQuanzhouForeignLanguageSchool/main/How%20to%20fuck%20them/buyaneryuyimuliaoran.png)
  
  各位切莫记得保护好自己，尤其是在校或刚离校的学生，别被抓到小辫子~
+
+## 贡献（Contribute）
+ 目前本项目仍处于地下状态，没多少知名度，有缘者可通过 issues 向我爆料，或者 fork 这个项目并自行对它添砖加瓦~
 
 ## 后记
  既然写到了最后，我也没什么想说的，只想让这个学校赶紧糊，不要再搞坑蒙拐骗的手段危害社会。什么叫教育资本化？这就是赤裸裸的教育资本化！！
